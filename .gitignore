@@ -210,3 +210,16 @@ __marimo__/
 audio/
 ESC-50.zip
 esc50.csv
+
+# Audio files in root
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.m4a
+
+# AI model files
+SVM/
+
+# Logs and generated reports
+*.csv
